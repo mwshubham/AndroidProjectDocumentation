@@ -1,0 +1,9 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.example.androidprojectdocumentation////PointingToDeclaration/app/com.example.androidprojectdocumentation/index.html
+$dokka.location:com.example.androidprojectdocumentation/MainActivity///PointingToDeclaration/app/com.example.androidprojectdocumentation/-main-activity/index.html
+$dokka.location:com.example.androidprojectdocumentation/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.androidprojectdocumentation/-main-activity/-main-activity.html
+$dokka.location:com.example.androidprojectdocumentation/MainActivity/functionWithDoc/#/PointingToDeclaration/app/com.example.androidprojectdocumentation/-main-activity/function-with-doc.html
+$dokka.location:com.example.androidprojectdocumentation/MainActivity/functionWithoutDoc/#/PointingToDeclaration/app/com.example.androidprojectdocumentation/-main-activity/function-without-doc.html
+com.example.androidprojectdocumentation
+
